@@ -10,3 +10,4 @@ Create simple API with Express Node JS and mysql
 5. run app with node server.js 
 6. check router with postman (  get, post, delete ) using http://localhost:8080/api/tutorials
    if postman output port 200 indicates there is no problem
+.
