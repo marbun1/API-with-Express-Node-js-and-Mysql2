@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: true })); /* bodyParser.urlencoded() is d
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "api with mysql2, nodeJs and expressJs" });
+  res.json({ message: "create simple api with mysql2 nodeJs and expressJs" });
 });
 
 require("./app/routes/tutorial.routes.js")(app);
