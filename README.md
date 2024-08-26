@@ -8,6 +8,6 @@ Create simple API with Express Node JS and mysql
 4. if there is a problem with database you can create new user and set permission
    then you implement changes in db.config
 5. run app with node server.js 
-6. check router with postman (  get, post, delete ) using http://localhost:8080/api/tutorials
+6. check routes with postman (  get, post, delete ) using http://localhost:8080/api/tutorials
    if postman output port 200 indicates there is no problem
 .
